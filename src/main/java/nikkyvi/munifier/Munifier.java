@@ -18,7 +18,7 @@ import nikkyvi.munifier.tab.CreativeTab;
 public class Munifier
 {
     public static final String MODID = "munifier";
-    public static final String VERSION = "1.3";
+    public static final String VERSION = "1.3b";
     public static final String NAME = "Munifier";
     
     @SidedProxy(clientSide = "nikkyvi.munifier.proxy.ClientProxy", serverSide = "nikkyvi.munifier.proxy.ServerProxy")
