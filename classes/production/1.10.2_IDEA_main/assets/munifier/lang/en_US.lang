@@ -1,0 +1,16 @@
+#Creative Tab
+itemGroup.tab_munifier=Munifier
+
+#Items
+item.munifier_testItem.name=Test Item
+
+#food
+item.foodPelmen.name=Meat dumpling
+item.foodVarenik.name=Potato dumpling
+item.foodMeatPie.name=Meat pie
+item.foodPotatoPie.name=Potato pie
+item.foodCoatedHerring.name=Coated Herring Salad
+
+#blocks
+tile.oreBlazerite.name=Blazerite Ore
+tile.oreGemstone.name=Gemstone Ore

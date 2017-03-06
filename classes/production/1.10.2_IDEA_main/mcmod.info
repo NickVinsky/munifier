@@ -1,0 +1,16 @@
+[
+{
+  "modid": "munifier",
+  "name": "Munifier",
+  "description": "Example placeholder mod.",
+  "version": "1.3",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NikkyVi"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
