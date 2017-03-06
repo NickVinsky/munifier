@@ -1,0 +1,16 @@
+#Creative Tab
+itemGroup.tab_munifier=Munifier
+
+#Items
+item.munifier_testItem.name=Шмотка
+
+#food
+item.foodPelmen.name=Пельмень
+item.foodVarenik.name=Вареник
+item.foodMeatPie.name=Пирожок с мясом
+item.foodPotatoPie.name=Пирожок с картошкой
+item.foodCoatedHerring.name=Селедка под шубой
+
+#blocks
+tile.oreBlazerite.name=Пламенитовая руда
+tile.oreGemstone.name=Драгокаменная руда
