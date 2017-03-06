@@ -1,8 +1,6 @@
 package nikkyvi.munifier;
 
-import net.minecraft.client.Minecraft;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.init.Blocks;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -10,21 +8,17 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import net.minecraftforge.fml.common.registry.GameRegistry;
 import nikkyvi.munifier.block.ModBlocks;
 import nikkyvi.munifier.cooking.foodList;
-import nikkyvi.munifier.item.ModItems;
-import nikkyvi.munifier.proxy.ClientProxy;
 import nikkyvi.munifier.proxy.CommonProxy;
 import nikkyvi.munifier.recipes.ModRecipes;
 import nikkyvi.munifier.tab.CreativeTab;
-import nikkyvi.munifier.worldgen.OreGen;
 
 @Mod(modid = Munifier.MODID, version = Munifier.VERSION, name = Munifier.NAME)
 public class Munifier
 {
     public static final String MODID = "munifier";
-    public static final String VERSION = "1.3";
+    public static final String VERSION = "1.4";
     public static final String NAME = "Munifier";
     
     @SidedProxy(clientSide = "nikkyvi.munifier.proxy.ClientProxy", serverSide = "nikkyvi.munifier.proxy.ServerProxy")
